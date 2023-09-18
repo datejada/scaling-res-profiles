@@ -10,7 +10,7 @@ time_column_key   = "time"
 data_column_key   = "national"
 
 [inputs.target_values]
-file_name         = "target_capacity_factors_pv.csv"
+file_name         = "target_cp_national_ninja_pv_country_NL_merra-2_corrected.csv"
 header_row        = 1
 year_column_key   = "year"
 
