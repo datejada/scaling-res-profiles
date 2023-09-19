@@ -2,6 +2,7 @@ const CONFIG_FILE_NAME      = "config.toml"
 
 const INPUTS_CONFIG_KEY     = "inputs"
 const INPUTS_DIR_KEY        = "dir"
+const INPUTS_LIST_OF_FILES  = "list_of_files"
 const RES_PROFILE_CONFIG_KEY= "res_profile"
 const TARGETS_CONFIG_KEY    = "target_values"
 const NAME                  = "file_name" 
