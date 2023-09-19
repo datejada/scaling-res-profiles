@@ -4,6 +4,7 @@ dir = "inputs"
 
 [inputs.res_profile]
 # input files for data
+file_list_of_file = "list_of_files_to_scale.csv"
 file_name         = "ninja_pv_country_NL_merra-2_corrected.csv"
 header_row        = 3
 time_column_key   = "time"
@@ -16,5 +17,6 @@ year_column_key   = "year"
 
 [outputs]
 dir = "outputs"
+display_plot = false
 first_hour_to_plot = 4380
 last_hour_to_plot = 4548

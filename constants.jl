@@ -17,5 +17,6 @@ const HOUR_OF_YEAR_KEY      = String(:hour_of_year)
 
 const OUTPUT_CONFIG_KEY     = "outputs"
 const OUTPUT_DIR_KEY        = "dir"
+const OUTPUT_DISPLAY_PLOT   = "display_plot"
 const OUTPUT_FIRST_HOUR_PLOT= "first_hour_to_plot"
 const OUTPUT_LAST_HOUR_PLOT = "last_hour_to_plot"
